@@ -5,11 +5,15 @@
 - 💞️ I’m looking to collaborate on any interesting projects, especially machine learning.
 - (Show me something cool you have created with code)
 
-- 📫 Connect with me
+- 📫 Connect with me:
+<details>
+  <summary>connect now -> </summary>
 - GITHUB:  @NjeruKariuki.  
 - TWITTER: @senseiMlevi
 - IG: @freakoutbond
 - E-mail: freakoutbond2@gmail.com
+  
+ </details>
 
 
 <!---
