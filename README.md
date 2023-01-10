@@ -11,7 +11,6 @@
   <summary>CONNECT NOW -> </summary>
   
 - ### GITHUB:  @NjeruKariuki.  
-- ### TWITTER: @senseiMlevi
 - ### IG: @freakoutbond
 - ### E-mail: freakoutbond2@gmail.com
   
