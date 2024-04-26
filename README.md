@@ -1,7 +1,7 @@
-##  👋 Hi, I’m @NjeruKariuki. alias,  CHIEF.
+##  👋 Hi, I’m @Daniel Njeru
  
 - 👀 I’m interested in web app development and data science.
-- 🌱 I’m currently learning deep learning with pytorch.
+- 🌱 I’m currently learning deep learning with pytorch and payment integrations.
 - 💞️ I’m looking to collaborate on any interesting projects.
 
   - (Show me something cool you have created with code)
