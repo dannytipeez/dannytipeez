@@ -1,18 +1,10 @@
-##  👋 Hi, I’m @Daniel Njeru
+##  👋 Hi, Chief Here :)
  
-- 👀 I’m interested in web app development and data science.
-- 🌱 I’m currently learning deep learning with pytorch and design patterns.
+- 👀 I’m interested in solving problems using maths and code.
+- 🌱 I’m currently learning deep learning with pytorch and system design(devops).
 - 💞️ I’m looking to collaborate on any interesting projects.
 
   - (Show me something cool you have created with code)
-
-- 📫 Connect with me:
-<details>
-  <summary>CONNECT NOW -> </summary>
-- ### IG: @freakoutbond
-- ### E-mail: freakoutbond2@gmail.com
-  
- </details>
 
 
 <!---
