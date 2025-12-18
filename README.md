@@ -1,11 +1,6 @@
-##  👋 Hi, Chief Here :)
+##  👋 Hi there!, Chief Here :)
  
-- 👀 I’m interested in solving problems using maths and code.
-- 🌱 I’m currently learning deep learning with pytorch and system design(devops).
-- 💞️ I’m looking to collaborate on any interesting projects.
-
-  - (Show me something cool you have created with code)
-
+I’m looking to collaborate on any interesting projects.
 
 <!---
 NjeruKariuki/NjeruKariuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
