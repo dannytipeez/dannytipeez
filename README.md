@@ -1,118 +1,233 @@
-Njeru Kariuki
+<div align="center">
 
-Solutions Architect · Software Engineer · AI & Backend Engineer
+👋 Hi, I'm Njeru Kariuki
 
-<p align="left">
-  <a href="https://dannytipeez.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+Software Engineer · Solutions Architect · AI Engineer
+
+<p>
+  <a href="https://dannytipeez.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/dannytipeez">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-I’m a Software Engineer with a background in Mathematics and Computer Science, focused on building scalable software systems, intelligent applications, and products that solve real-world problems.
+<p>
+  <em>Building software, intelligent systems, and products that turn complex problems into simple experiences.</em>
+</p>
 
-My work spans the software development lifecycle — from product design and UI/UX to backend architecture, APIs, databases, cloud infrastructure, AI systems, and frontend development.
+</div>
 
-What I Do
+🧑🏽‍💻 About Me
 
-🏗️ Backend Engineering — APIs, business logic, databases, and scalable services
+I'm a Software Engineer and Solutions Architect with a background in Mathematics and Computer Science.
 
-🌐 Full-Stack Development — Modern web applications and product platforms
+I enjoy working across the full product lifecycle — from understanding a problem and designing the experience, to architecting the backend, building intelligent systems, deploying infrastructure, and shipping the final product.
 
-📱 Mobile Development — Kotlin, Jetpack Compose, Room, Hilt, and Firebase
+My strongest interests sit at the intersection of:
 
-🤖 AI / ML Engineering — LLM applications, RAG, agents, NLP, and intelligent automation
+Software Engineering × AI × Product × Business
 
-☁️ Architecture & Cloud — System design, deployment, infrastructure, and distributed systems
+I'm particularly interested in building systems that are scalable, intelligent, maintainable, and genuinely useful.
 
-🎨 UI/UX & Product Design — Turning complex requirements into intuitive product experiences
+⚡ What I Build
 
-Tech Stack
+<table>
+<tr>
+<td width="50%">
+
+🏗️ Backend & Architecture
+
+Designing APIs, services, databases, and system architectures that can grow with a product.
+
+Focus: REST APIs · System Design · Distributed Systems · Databases · Cloud
+
+</td>
+<td width="50%">
+
+🤖 AI & Intelligent Systems
+
+Building practical AI applications around LLMs, retrieval, agents, automation, and machine learning.
+
+Focus: LLMs · RAG · AI Agents · NLP · ML · Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🌐 Full-Stack Products
+
+Creating complete products from backend services to modern, responsive interfaces.
+
+Focus: React · Next.js · TypeScript · Django · APIs
+
+</td>
+<td width="50%">
+
+📱 Mobile Applications
+
+Building modern Android applications with Kotlin and a clean, scalable architecture.
+
+Focus: Kotlin · Jetpack Compose · Room · Hilt · Firebase
+
+</td>
+</tr>
+</table>
+
+🛠️ Technology Stack
 
 Languages
 
-Python Kotlin TypeScript JavaScript SQL
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+</p>
 
-Backend
+Backend & APIs
 
-Django Django REST Framework Django Ninja Node.js NestJS
+<p>
+<img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=44B78B" />
+<img src="https://img.shields.io/badge/Django_REST-111827?style=for-the-badge&logo=django&logoColor=44B78B" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+</p>
 
 Frontend
 
-React Next.js Tailwind CSS Redux
+<p>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC" />
+</p>
 
 Mobile
 
-Kotlin Jetpack Compose Room Hilt Firebase
+<p>
+<img src="https://img.shields.io/badge/Android-111827?style=for-the-badge&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-111827?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Room-111827?style=for-the-badge&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
 
-AI & Machine Learning
+AI / Machine Learning
 
-PyTorch NLP LLMs RAG Vector Search AI Agents
+<p>
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=probot&logoColor=FFFFFF" />
+</p>
 
-Cloud & Data
+Databases, Cloud & DevOps
 
-PostgreSQL MongoDB Redis Docker AWS Vercel
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
 
-Experience
+🚀 Selected Work
 
-Solutions Architect / Software Engineer · 2023 — Present
+🌾 Agriculture & Operations
 
-Designing resilient systems, scalable APIs, and product experiences across backend services, cloud deployment, AI applications, and modern software architecture.
+Building software for agricultural operations, farm management, data workflows, and operational decision-making.
 
-Full-Stack & Product Engineer · 2021 — 2023
+💳 Fintech & Financial Products
 
-Built and delivered software across agriculture, marketplaces, customer support, productivity, and management systems, with a strong focus on usability, maintainability, and business value.
+Designing digital financial experiences around payments, credit, lending, and alternative data.
 
-Selected Projects
+🤖 AI Knowledge & Support Systems
 
-🌾 AgriOps Platform
+Developing intelligent assistants that combine organizational data, documents, databases, retrieval systems, and LLMs to provide useful answers and automate workflows.
 
-A farm operations platform for managing tasks, data, workflows, and operational visibility in complex agricultural environments.
+📱 LifeOS
 
-🛒 Commerce System
+A personal productivity and life-management platform designed around goals, routines, habits, progress tracking, and personal growth.
 
-A marketplace ecosystem designed around transactions, listings, user flows, and a strong product and UX experience.
+🧠 Engineering Philosophy
 
-🤖 Knowledge Assistant
+Understand the problem
+        ↓
+Design the simplest useful solution
+        ↓
+Build with strong foundations
+        ↓
+Automate what should be automated
+        ↓
+Measure what matters
+        ↓
+Iterate continuously
 
-An AI-powered knowledge and support system using LLMs, retrieval workflows, structured organizational data, and modern AI product architecture.
+I believe good engineering isn't just about writing code.
 
-Current Focus
+It's about understanding the problem deeply, making good trade-offs, and creating systems that people actually want to use.
 
-I’m particularly interested in:
+📊 GitHub
 
-AI-powered products
+<div align="center">
 
-LLM applications and RAG
+<img src="https://github-readme-stats.vercel.app/api?username=dannytipeez&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dannytipeez&hide_border=true&theme=transparent" height="165" />
 
-AI agents and intelligent automation
+</div>
 
-Backend engineering
+<div align="center">
 
-Distributed systems
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannytipeez&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
-System architecture
+</div>
 
-Cloud infrastructure
+🎯 Currently Exploring
 
-Data-intensive applications
+AI Engineering
+├── LLM Applications
+├── Retrieval-Augmented Generation
+├── AI Agents
+└── Intelligent Automation
 
-Technology-driven business solutions
+Software Architecture
+├── Distributed Systems
+├── Scalable Backend Systems
+├── Cloud Infrastructure
+└── Data Architecture
 
-I enjoy working at the intersection of engineering, product, AI, and business — taking ambiguous problems and turning them into reliable, scalable products.
+Product Engineering
+├── Developer Experience
+├── Product Design
+├── Mobile Applications
+└── AI-powered Products
 
-Portfolio
+🌍 Let's Connect
 
-🌐 Explore my work:
-https://dannytipeez.github.io/
+If you're working on an interesting product, AI system, software platform, or business idea, I'd love to hear about it.
 
-Let's Build
+<div align="center">
 
-I’m open to opportunities involving:
+Build something meaningful. 🚀
 
-Software Engineering · Backend Engineering · Solutions Architecture · AI Engineering · Product Engineering · Technical Consulting
+<br>
 
-If you’re building something ambitious, I’d be happy to connect.
+<a href="https://dannytipeez.github.io/">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-<!---
-NjeruKariuki/NjeruKariuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+<div align="center">
+
+<sub>Designed & built by <strong>Njeru Kariuki</strong> · Nairobi, Kenya 🇰🇪</sub>
+
+</div>
